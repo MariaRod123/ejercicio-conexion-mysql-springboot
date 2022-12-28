@@ -3,6 +3,10 @@
 Los pasos que realicé fueron los siguientes:
 - Descargué  e instalé el driver Connector/J 8.0.25, MySQL server y MySQL Workbench
 - Inicié servicio MYSQL80
+
+    ![2022-12-28_18h17_59](https://user-images.githubusercontent.com/72228855/209873451-6fae6a49-f143-4312-819a-3b3815783083.png)
+
+
 - Desde el cmd cree la base de datos de la siguiente forma: 
     - escribo : cd "C:\Program Files\MySQL\MySQL Server 8.0\bin"
     - una vez que ingreso escribo: mysql -u root -p 
